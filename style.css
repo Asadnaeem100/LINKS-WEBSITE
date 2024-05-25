@@ -1,0 +1,174 @@
+/* Comment Code */
+.h1{
+    font-size: 50px;
+    color:blue;
+    font-style: oblique;
+    text-align: center;
+    width:auto;
+}
+
+/* Comment Code */
+.asad{
+    border:3px groove black;
+    border-radius: 20px;
+    font-size:30px;
+    background-color: coral;
+    padding:20px;
+    margin:30px;
+    width:auto;
+}
+
+/* Comment Code */
+.asad:hover {
+    background-color:black
+}
+
+/* Comment Code */
+.ahmad{
+    border:3px solid black;
+    border-radius:20px;
+    font-size:30px;
+    background-color:saddlebrown;
+    padding:20px;
+    margin:30px;
+    width:auto;
+}
+
+/* Comment Code */
+.ahmad:hover{
+    background-color:rosybrown;
+
+}
+
+/* Comment Code */
+.mubashir{
+    border:3px dashed black;
+    border-radius: 20px;
+    background-color:seagreen;
+    padding:20px;
+    margin:30px;
+    font-size:30px;
+    width:auto;
+}
+
+/* Comment Code */
+.mubashir:hover{
+    background-color:hotpink;
+}
+
+/* Comment Code */
+.form{
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+    text-align: center;
+    width:18%;
+    background-color: lightskyblue;
+    padding:10px;
+    border-radius:15px;
+}
+
+/* Comment Code */
+.school{
+    background-color: lightskyblue;
+    padding:25px;
+    margin:10px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius:20px;
+    width:auto;
+}
+
+/* Comment Code */
+.ok{
+    background-color: rgb(59, 189, 59);
+    border:1px solid lightgreen;
+    border-radius: 15px;
+    padding:15px;
+    width:20%;
+}
+
+
+/* Comment Code */
+.ok:hover {
+    background-color: greenyellow;
+}
+
+
+/* Comment Code */
+.css        {
+    border:1px solid whitesmoke;
+    border-radius:10px;
+    background-color:wheat;
+    width:16%;
+    font-size: 22px;
+    padding:10px;
+    margin:15px;
+}
+
+
+/* Comment Code */
+.css:hover  {
+    background-color:green;
+}
+
+
+/* Comment Code */
+ul          {
+    background-color:black;
+    overflow: hidden;
+    padding:0;
+    margin:0;
+}
+
+
+/* Comment Code */
+li          {
+    display: block;
+    padding:15px 15px;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    float:left;
+    font-size:25px;
+}   
+
+
+/* Comment Code */
+li a        {
+    text-decoration: none;
+    
+}  
+
+
+/* Comment Code */
+li          {
+    display: inline;
+}      
+
+
+/* Comment Code */
+li:hover  {
+    background-color:red;
+}
+
+
+/* Comment Code */
+.eg          {  
+    border-left: 5px solid green;
+    margin:15px;
+}
+
+
+/* Comment Code */
+.shadow     {
+    font-size:70px;
+    text-shadow: 5px 5px olive;
+    font-style: oblique;
+    text-decoration:underline;
+    border: 5px groove green;
+    border-radius: 25px 15px 25px 15px;
+    width:35%;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}
